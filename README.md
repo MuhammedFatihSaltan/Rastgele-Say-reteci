@@ -53,7 +53,7 @@
     CATCH ValueError
         PRINT "Lütfen sadece tam sayı giriniz!"
     ENDTRY
-END
+
 ---------------------------------------------------------------------------------------------------------------------
 # Rastgele-Sayı-Üreteci
 XOR Sayı Üreteci Algoritması
